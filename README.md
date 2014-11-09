@@ -1,4 +1,4 @@
-Mike Zamansky
+Adam DeHovitz
 ==========
 
 # Fall Semester
@@ -6,17 +6,8 @@ Period 6
 
 ## Main Projects
 
-### Project 1 name
-#### Team members
-#### Description
-Describe your project here
-#### put the https clone link here
+(to be filled)
 
-### Project 2 name
-#### Team members
-#### Description
-Describe your project here
-#### put the https clone link here
 
 ## Mini Projects
 
