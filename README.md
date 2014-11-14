@@ -29,4 +29,6 @@ A blogging service using sqlite3
  * intro-proj 1
   * Adam DeHovitz, Benedict Bolton
   * 6/intro-proj1/DeHovitz-Bolton/css-project
-
+ * API-project
+  * Adam DeHovitz, Sunnam Quispe
+  * konceq/API-project
