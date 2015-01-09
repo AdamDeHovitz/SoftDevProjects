@@ -6,6 +6,13 @@ Period 6
 
 ## Main Projects
 
+### Rulo (final project)
+#### Adam DeHovitz, Sophie Gershon, Benedict Bolton, Deanna Taylor
+#### Description
+Bulk shopping app
+#### AdamDeHovitz/Rulo/
+
+
 ### Query Project
 #### Adam DeHovitz, Justin Kim, Maria Vasilkin, Anya Hargil
 #### Description
