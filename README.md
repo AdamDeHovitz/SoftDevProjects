@@ -10,32 +10,36 @@ Period 6
 #### Adam DeHovitz, Sophie Gershon, Benedict Bolton, Deanna Taylor
 #### Description
 Bulk shopping app
-#### AdamDeHovitz/Rulo/
+#### https://github.com/AdamDeHovitz/Rulo/
 
 
 ### Query Project
 #### Adam DeHovitz, Justin Kim, Maria Vasilkin, Anya Hargil
 #### Description
 Takes who and when questions and attempts to answer using google
-#### AdamDeHovitz/J-A-M-A/
+#### https://github.com/AdamDeHovitz/J-A-M-A/
 
 ### Blog
 #### Adam DeHovitz, Hubert Puszklewicz, Cynthia Zhou, Rebecca Yuste
 #### Description
 A blogging service using sqlite3
-#### cyntzhou/Blog
+#### https://github.com/cyntzhou/Blog
 
 ## Mini Projects
 
  * login
   * Adam DeHovitz, Sophie Gershon
-  * 6/login/adam_sophie
+  * https://github.com/6/login/adam_sophie
  * regexp
   * Adam DeHovitz, Rebecca Yuste
-  * 6/regexp/adam-rebecca
+  * https://github.com/6/regexp/adam-rebecca
  * intro-proj 1
   * Adam DeHovitz, Benedict Bolton
-  * 6/intro-proj1/DeHovitz-Bolton/css-project
+  * https://github.com/6/intro-proj1/DeHovitz-Bolton/css-project
  * API-project
   * Adam DeHovitz, Sunnam Quispe
-  * konceq/API-project
+  * https://github.com/konceq/API-project
+ * Invisible Cow
+  * Adam DeHovitz, Anya Hargil
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/invisible-cow/adam_anya
+  
