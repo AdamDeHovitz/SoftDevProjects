@@ -29,13 +29,13 @@ A blogging service using sqlite3
 
  * login
   * Adam DeHovitz, Sophie Gershon
-  * https://github.com/6/login/adam_sophie
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/login/adam_sophie
  * regexp
   * Adam DeHovitz, Rebecca Yuste
-  * https://github.com/6/regexp/adam-rebecca
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/regexp/adam-rebecca
  * intro-proj 1
   * Adam DeHovitz, Benedict Bolton
-  * https://github.com/6/intro-proj1/DeHovitz-Bolton/css-project
+  * https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/DeHovitz-Bolton/css-project
  * API-project
   * Adam DeHovitz, Sunnam Quispe
   * https://github.com/konceq/API-project
